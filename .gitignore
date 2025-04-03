@@ -63,4 +63,7 @@ _ReSharper*/
 
 # Office Temp Files
 ~$*
-.vs/*
+.vs/
+
+# NuGet Packages
+Packages
