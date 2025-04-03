@@ -9,7 +9,7 @@
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>PoorMansTSqlFormatterSSMSLib</RootNamespace>
     <AssemblyName>PoorMansTSqlFormatterSSMSLib</AssemblyName>
-    <TargetFrameworkVersion>v2.0</TargetFrameworkVersion>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
     <SignAssembly>true</SignAssembly>
@@ -37,6 +37,7 @@
     <Reference Include="envdte80, Version=8.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
       <EmbedInteropTypes>True</EmbedInteropTypes>
     </Reference>
+    <Reference Include="Microsoft.CSharp" />
     <Reference Include="System" />
     <Reference Include="System.Configuration.Install" />
     <Reference Include="System.Data" />
@@ -62,13 +63,13 @@
     <WCFMetadata Include="Service References\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PoorMansTSqlFormatterLib\PoorMansTSqlFormatterLib.csproj">
-      <Project>{adbdfdca-cab6-4569-9151-0bd42e65b400}</Project>
-      <Name>PoorMansTSqlFormatterLib</Name>
+    <ProjectReference Include="..\PoorMansTSqlFormatterLib\PoorMansTSqlFormatterLib_40.csproj">
+      <Project>{18e3664a-3033-4ffa-bec3-5d8788f6535a}</Project>
+      <Name>PoorMansTSqlFormatterLib_40</Name>
     </ProjectReference>
-    <ProjectReference Include="..\PoorMansTSqlFormatterPluginShared\PoorMansTSqlFormatterPluginShared.csproj">
-      <Project>{4c350944-937b-4416-8442-3197fc7098f2}</Project>
-      <Name>PoorMansTSqlFormatterPluginShared</Name>
+    <ProjectReference Include="..\PoorMansTSqlFormatterPluginShared\PoorMansTSqlFormatterPlugin40.csproj">
+      <Project>{670bbbc3-180f-4b1a-aa7b-de3f1739b1a2}</Project>
+      <Name>PoorMansTSqlFormatterPlugin40</Name>
     </ProjectReference>
   </ItemGroup>
   <ItemGroup>

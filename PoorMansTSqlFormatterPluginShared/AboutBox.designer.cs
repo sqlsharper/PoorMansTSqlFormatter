@@ -78,13 +78,11 @@ namespace PoorMansTSqlFormatterPluginShared
             // labelProductName
             // 
             resources.ApplyResources(this.labelProductName, "labelProductName");
-            this.labelProductName.MaximumSize = new System.Drawing.Size(0, 17);
             this.labelProductName.Name = "labelProductName";
             // 
             // labelCopyright
             // 
             resources.ApplyResources(this.labelCopyright, "labelCopyright");
-            this.labelCopyright.MaximumSize = new System.Drawing.Size(0, 17);
             this.labelCopyright.Name = "labelCopyright";
             // 
             // textBoxDescription
