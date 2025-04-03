@@ -2,7 +2,14 @@
 
 This changelog aims to follow the structure laid out at [Keep a Changelog](http://keepachangelog.com/), and follow semantic versioning.
 
-## [Unreleased]
+## [2.0.0] - 2025-04-03
+
+### Added
+* New SSMS extension project [PoorMansTSqlFormatterSSMSPackage20] to support SSMS 20, compatible with 18/19.
+* New setup project [PoorMansTSqlFormatterSSMSPackage20.Setup].
+
+### Changed
+* Upgrade core libs to .NET 4.x and remove dependency of .NET 2.0.
 
 ### Added 
 

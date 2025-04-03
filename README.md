@@ -1,4 +1,11 @@
-﻿
+﻿## About This Fork
+This is an unofficial maintance branch just to support latest versions of SSMS.
+Recently, we have supported SSMS 18/19/20.
+
+You can download the setup file from Releases on the right side.
+
+We are sorry, but we currently do not have the capability to maintain the core library.
+
 ## Poor Man's T-SQL Formatter
 
 This is a small free .Net 2.0 and JS library (with demo winforms program, web service,
