@@ -2,9 +2,16 @@
 This is an unofficial maintance branch just to support latest versions of SSMS.
 Recently, we have supported SSMS 18/19/20.
 
-You can download the setup file from Releases on the right side.
+You can download the setup file from Releases on the right side or the links beblow.
 
-We are sorry, but we currently do not have the capability to maintain the core library.
+* [v2.1.0 (For SSMS 21)](https://github.com/sqlsharper/PoorMansTSqlFormatter/releases/download/SSMS21/PoorMansTSqlFormatterSSMSPackage.zip)
+* [v2.0.0 (For SSMS 18/19/20)](https://github.com/sqlsharper/PoorMansTSqlFormatter/releases/download/SSMS20/PoorMansTSqlFormatterSSMSPackage20.Setup.msi)
+
+
+### AD
+I have a SSMS Addin with multiple features - [SQL Sharper](https://sqlsharper.com/?git)
+
+And I'm writing my own T-SQL formatter, thanks for your watching.
 
 ## Poor Man's T-SQL Formatter
 
