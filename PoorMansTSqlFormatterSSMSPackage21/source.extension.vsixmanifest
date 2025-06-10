@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <PackageManifest Version="2.0.0" xmlns="http://schemas.microsoft.com/developer/vsx-schema/2011" xmlns:d="http://schemas.microsoft.com/developer/vsx-schema-design/2011">
     <Metadata>
-        <Identity Id="PoorMansTSqlFormatterSSMSPackage21.6731c644-0d05-43da-b8e7-f639c2cf54e1" Version="1.0" Language="en-US" Publisher="Bob Chin" />
+        <Identity Id="PoorMansTSqlFormatterSSMSPackage21.6731c644-0d05-43da-b8e7-f639c2cf54e1" Version="2.1.0" Language="en-US" Publisher="Bob Chin" />
         <DisplayName>PoorMansTSqlFormatterSSMSPackage21</DisplayName>
         <Description xml:space="preserve">A simple free (AGPL) T-SQL Formatting Extension for SSMS 21.</Description>
         <License>LICENSE.rtf</License>
