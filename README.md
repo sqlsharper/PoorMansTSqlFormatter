@@ -9,7 +9,7 @@ You can download the setup file from Releases on the right side or the links beb
 
 
 ### AD
-I have a SSMS Addin with multiple features - [SQL Sharper](https://sqlsharper.com/?git)
+I have an SSMS Addin with multiple features - [SQL Sharper](https://sqlsharper.com/?git)
 
 And I'm writing my own T-SQL formatter, thanks for your watching.
 
