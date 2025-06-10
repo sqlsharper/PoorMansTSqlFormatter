@@ -1,6 +1,6 @@
 ﻿## About This Fork
 This is an unofficial maintance branch just to support latest versions of SSMS.
-Recently, we have supported SSMS 18/19/20.
+Recently, we have supported SSMS from 18 to 21.
 
 You can download the setup file from Releases on the right side or the links beblow.
 
