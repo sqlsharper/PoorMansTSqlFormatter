@@ -57,6 +57,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterPlugin
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterSSMSPackage20.Setup.action", "PoorMansTSqlFormatterSSMSPackage20.Setup.action\PoorMansTSqlFormatterSSMSPackage20.Setup.action.csproj", "{3EA82DD0-C3AC-43F9-BA08-A9D46E1B3CB9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterSSMSPackage21", "PoorMansTSqlFormatterSSMSPackage21\PoorMansTSqlFormatterSSMSPackage21.csproj", "{B4CC666F-6528-47AB-890A-4A58B027CE1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoorMansTSqlFormatterSSMSLib.SDK17", "PoorMansTSqlFormatterSSMSLib\PoorMansTSqlFormatterSSMSLib.SDK17.csproj", "{67A9E852-9646-4AF7-B211-72C06AEAE313}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|ARM64 = Debug|ARM64
@@ -393,6 +397,38 @@ Global
 		{3EA82DD0-C3AC-43F9-BA08-A9D46E1B3CB9}.Release|x64.Build.0 = Release|Any CPU
 		{3EA82DD0-C3AC-43F9-BA08-A9D46E1B3CB9}.Release|x86.ActiveCfg = Release|Any CPU
 		{3EA82DD0-C3AC-43F9-BA08-A9D46E1B3CB9}.Release|x86.Build.0 = Release|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|ARM64.ActiveCfg = Debug|arm64
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|ARM64.Build.0 = Debug|arm64
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|PureDotNet.ActiveCfg = Debug|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|PureDotNet.Build.0 = Debug|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|x64.Build.0 = Debug|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|x86.ActiveCfg = Debug|x86
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Debug|x86.Build.0 = Debug|x86
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|ARM64.ActiveCfg = Release|arm64
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|ARM64.Build.0 = Release|arm64
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|PureDotNet.ActiveCfg = Release|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|PureDotNet.Build.0 = Release|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|x64.ActiveCfg = Release|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|x64.Build.0 = Release|Any CPU
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|x86.ActiveCfg = Release|x86
+		{B4CC666F-6528-47AB-890A-4A58B027CE1F}.Release|x86.Build.0 = Release|x86
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|PureDotNet.ActiveCfg = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|PureDotNet.Build.0 = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|x64.Build.0 = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Debug|x86.Build.0 = Debug|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|ARM64.Build.0 = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|PureDotNet.ActiveCfg = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|PureDotNet.Build.0 = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|x64.ActiveCfg = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|x64.Build.0 = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|x86.ActiveCfg = Release|Any CPU
+		{67A9E852-9646-4AF7-B211-72C06AEAE313}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
