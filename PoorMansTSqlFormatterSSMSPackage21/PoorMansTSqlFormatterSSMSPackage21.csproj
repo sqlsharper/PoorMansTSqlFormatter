@@ -118,7 +118,7 @@
   <PropertyGroup>
     <PostBuildEvent>del /q "C:\Program Files\Microsoft SQL Server Management Studio 21\Release\Common7\IDE\Extensions\$(TargetName)\*.*"
 
-xcopy /y /i "$(TargetDir)$(TargetName).vsix"  "$(TargetDir)$(TargetName).zip"
+copy "$(TargetDir)$(TargetName).vsix"  "$(TargetDir)$(TargetName).zip"
 
 powershell -NoProfile -Command "Expand-Archive -Force  -Path '$(TargetDir)$(TargetName).zip' -DestinationPath 'C:\Program Files\Microsoft SQL Server Management Studio 21\Release\Common7\IDE\Extensions\$(TargetName)'"</PostBuildEvent>
   </PropertyGroup>
