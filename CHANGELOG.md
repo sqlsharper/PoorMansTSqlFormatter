@@ -2,6 +2,10 @@
 
 This changelog aims to follow the structure laid out at [Keep a Changelog](http://keepachangelog.com/), and follow semantic versioning.
 
+## [2.1.0] - 2025-06-14
+### Added
+* Support SSMS 21.
+
 ## [2.0.0] - 2025-04-03
 
 ### Added
