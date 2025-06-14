@@ -4,8 +4,8 @@ Recently, we have supported SSMS from 18 to 21.
 
 You can download the setup file from Releases on the right side or the links beblow.
 
-* [v2.1.0 (For SSMS 21)](https://github.com/sqlsharper/PoorMansTSqlFormatter/releases/download/SSMS21/PoorMansTSqlFormatterSSMSPackage.zip)
-* [v2.0.0 (For SSMS 18/19/20)](https://github.com/sqlsharper/PoorMansTSqlFormatter/releases/download/SSMS20/PoorMansTSqlFormatterSSMSPackage20.Setup.msi)
+* [v2.1.0 (For SSMS 21)](https://github.com/sqlsharper/PoorMansTSqlFormatter/releases/tag/SSMS21-Setup)
+* [v2.0.0 (For SSMS 18/19/20)](https://github.com/sqlsharper/PoorMansTSqlFormatter/releases/tag/SSMS20)
 
 
 ### AD
