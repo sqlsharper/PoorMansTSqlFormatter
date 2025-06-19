@@ -14,7 +14,6 @@
     <PackageReference Include="WixToolset.Util.wixext" Version="5.0.2" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\PoorMansTSqlFormatterSSMSPackage21.Setup.action\PoorMansTSqlFormatterSSMSPackage21.Setup.action.csproj" />
     <ProjectReference Include="..\PoorMansTSqlFormatterSSMSPackage21\PoorMansTSqlFormatterSSMSPackage21.csproj" />
   </ItemGroup>
 </Project>
