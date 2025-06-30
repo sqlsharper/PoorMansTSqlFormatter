@@ -11,7 +11,9 @@ You can download the setup file from Releases on the right side or the links beb
 ### AD
 I have an SSMS Addin with multiple features - [SQL Sharper](https://sqlsharper.com/?git)
 
-And I'm writing my own T-SQL formatter, thanks for your watching.
+Also contains a SQL formatter.
+
+Supports for SSMS 18/19/20/21.
 
 ## Poor Man's T-SQL Formatter
 
